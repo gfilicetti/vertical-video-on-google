@@ -85,3 +85,9 @@ process
   ```
 
 #### THESE INSTRUCTIONS ARE A WORK IN PROGRESS
+
+## Contributors
+- Adrian Graham
+- Sofyan Saputra
+- Chyanna Antonio
+- Gino Filicetti
